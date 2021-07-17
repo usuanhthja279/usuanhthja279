@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @usuanhthja279
+- 👀 I’m interested in Data Science projects and Data Structures
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Pretty much everything related to data science
+- 📫 Interested can reach me at the mail id - "usuanhthja279@gmail.com"
